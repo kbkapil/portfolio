@@ -181,10 +181,11 @@ const Projects = () => {
                       href={project.liveUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="p-2 rounded-full bg-white/10 hover:bg-[#ff2a2a] text-white transition-all"
-                      title="Live Website"
+                      className="px-3 py-1.5 rounded-full bg-white/10 hover:bg-[#ff2a2a] text-white text-xs font-mono font-bold transition-all flex items-center gap-1.5"
+                      title="Visit Live Website"
                     >
-                      <ExternalLink className="w-4 h-4" />
+                      <span>Live Site</span>
+                      <ExternalLink className="w-3.5 h-3.5" />
                     </a>
                   )}
                 </div>

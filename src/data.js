@@ -26,9 +26,9 @@ export const PROJECTS = [
     description: "Architected high-volume dual mobile application serving 50,000+ daily readers. Built with React Native, Firebase push notifications, categorized article feeds, and automated backend caching.",
     tags: ["React Native", "Firebase", "REST APIs", "Node.js", "Redux"],
     image: "/images/projects/yashbharat.png",
-    androidUrl: "https://play.google.com/store/apps/details?id=com.yashbharat.news",
-    iosUrl: "https://apps.apple.com/in/app/yashbharat/id6475685789",
-    liveUrl: "https://play.google.com/store/apps/details?id=com.yashbharat.news",
+    androidUrl: "https://play.google.com/store/apps/details?id=com.yashbharatnews&hl=en_IN",
+    iosUrl: "https://apps.apple.com/us/app/yash-bharat/id6477339612",
+    liveUrl: "https://play.google.com/store/apps/details?id=com.yashbharatnews&hl=en_IN",
     metrics: "50K+ Downloads · Dual App Store",
     projectType: "freelance",
     features: [
@@ -46,7 +46,7 @@ export const PROJECTS = [
     description: "Engineered scalable service marketplace connecting users to local beauty experts. Designed high-performance caching layer that reduced database query load by 80%+ under peak booking hours.",
     tags: ["PHP", "MySQL", "Redis Cache", "JavaScript", "REST APIs"],
     image: "/images/projects/groomy.png",
-    liveUrl: "https://groomy.in",
+    liveUrl: "https://groomyindia.com/",
     metrics: "80%+ DB Query Bypass",
     projectType: "freelance",
     features: [
@@ -64,7 +64,7 @@ export const PROJECTS = [
     description: "Designed and deployed modern, fluid digital showcase for an architecture practice. Features interactive spatial project galleries, optimized image lazy loading, and sub-second load times.",
     tags: ["HTML5", "CSS3", "JavaScript", "Responsive UI", "SEO"],
     image: "/images/projects/kasturi.png",
-    liveUrl: "https://kasturiarchitects.com",
+    liveUrl: "https://kasturiarchitects.com/",
     metrics: "98+ PageSpeed Score",
     projectType: "freelance",
     features: [
@@ -82,7 +82,7 @@ export const PROJECTS = [
     description: "Full-stack agency platform delivering high-converting campaign landing pages, dynamic service breakdowns, and streamlined client consultation lead capture.",
     tags: ["React", "Tailwind CSS", "REST APIs", "Vite"],
     image: "/images/projects/aditra.png",
-    liveUrl: "https://adintradigital.com",
+    liveUrl: "https://www.adintradigital.in/",
     metrics: "Client Lead Engine",
     projectType: "freelance",
     features: [
