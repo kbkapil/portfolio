@@ -100,7 +100,7 @@ export const PROJECTS = [
     description: "Modern food & beverage platform featuring dynamic table reservation, real-time item customizer, and shopping cart persistence.",
     tags: ["HTML5", "CSS3", "JavaScript", "Local Storage"],
     image: "/images/projects/cafe.png",
-    liveUrl: "https://cafe-websitedemo.netlify.app",
+    liveUrl: "https://demositecafe.netlify.app/",
     metrics: "Demo Prototype",
     projectType: "demo"
   },
@@ -112,7 +112,7 @@ export const PROJECTS = [
     description: "Real estate portal featuring advanced parametric property search, interactive floorplan viewer, and automated broker appointment booking.",
     tags: ["React", "Tailwind CSS", "JavaScript"],
     image: "/images/projects/luxe.png",
-    liveUrl: "https://realestate-websitedemo.netlify.app",
+    liveUrl: "https://realestate-dem.netlify.app/",
     metrics: "Demo Prototype",
     projectType: "demo"
   },
