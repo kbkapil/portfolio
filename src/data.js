@@ -5,10 +5,10 @@ export const PERSONAL_INFO = {
   tagline: "Engineering production web applications, cross-platform mobile apps, and scalable full-stack architectures.",
   bio: "Hi, I'm Kapil Bisen, a passionate Full Stack Developer and App Developer dedicated to crafting clean, high-performance web platforms and mobile applications. Experienced in developing production mobile apps with 50K+ active users, architecting full-stack systems with React, React Native, Java, Spring Boot, MySQL, MongoDB, and Redis.",
   email: "kapilbisen7231@gmail.com",
-  linkedin: "https://www.linkedin.com/in/kapilbisen",
-  github: "https://github.com/kapilbisen",
+  linkedin: "https://www.linkedin.com/in/kapil-bisen-48a992237/",
+  github: "https://github.com/kbkapil",
   location: "Indore, India",
-  resumePath: "/resume_kapil_bisen.pdf",
+  resumePath: "https://drive.google.com/file/d/1usND1OLiX0shJA88dRL8juqQl1Ja-IjG/view?usp=drive_link",
   stats: [
     { label: "Degree", value: "B.Tech IT", detail: "SVCE Indore (2025)" },
     { label: "Production Apps", value: "4+", detail: "Client Deployed" },
